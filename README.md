@@ -40,3 +40,12 @@
 * Приложение запускается и совместимо с Java 11
 * Приложение работает согласно руководству использования
 * Программа не считывает карты : American Express (AMEX); Diners Club - International; 19-ти значные номера карт.
+
+## Тестирование производилось в следующем окружении:
+Windows 10 64-bit
+
+openjdk version "11.0.9.1" 2020-11-04
+
+OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
+
+OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
