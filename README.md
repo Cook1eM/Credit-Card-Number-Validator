@@ -23,9 +23,6 @@
 1. После установки. Замением код "Hello programming!" на тот что приведен в домашнем задании (ссылка на инструкцию в предисловии)
 1. Проверяем валидность карт с помощью ресурса freeformatter.com
 
-### В качестве тестовых данных использовалось  
-* [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
-* [Домашнее задание к занятию 1.1](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 ### Ожидаемый результат:
 
@@ -49,3 +46,5 @@ openjdk version "11.0.9.1" 2020-11-04
 OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
 
 OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
+
+IDEA Version 2020.2.3
