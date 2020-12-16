@@ -21,7 +21,7 @@
 ### Шаги : 
 1. Проходим по всем этапам установки IntelliJ IDEA Community (ссылка на инструкцию в предисловии)
 1. После установки. Замением код "Hello programming!" на тот что приведен в домашнем задании (ссылка на инструкцию в предисловии)
-1. Проверяем валидность карт с помощью ресурса freeformatter.com
+1. Проверяем валидность карт с помощью ресурса [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 
 
 ### Ожидаемый результат:
