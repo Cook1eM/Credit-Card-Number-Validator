@@ -36,7 +36,7 @@
 * Инструкция по установке IntelliJ IDEA работает под текущий ОС
 * Приложение запускается и совместимо с Java 11
 * Приложение работает согласно руководству использования
-* Программа не считывает карты : American Express (AMEX); Diners Club - International; 19-ти значные номера карт.
+* [Программа не считывает карты : American Express (AMEX); Diners Club - International; 19-ти значные номера карт.](https://github.com/Cook1eM/Credit-Card-Number-Validator/issues/1)
 
 ## Тестирование производилось в следующем окружении:
 Windows 10 64-bit
